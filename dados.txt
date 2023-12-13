@@ -1,0 +1,15 @@
+Taylor Swift|2006|Taylor Swift|Sim
+Fearless|2008|Taylor Swift|Não
+Speak Now|2010|Taylor Swift|Não
+Red|2012|Taylor Swift|Não
+1989|2014|Taylor Swift|Não
+reputation|2017|Taylor Swift|Não
+Lover|2019|Taylor Swift|Não
+Folklore|2020|Taylor Swift|Não
+Evermore|2020|Taylor Swift|Não
+Midnights|2022|Taylor Swift|Não
+Harry Styles|2019|Harry Styles|Sim
+Sour|2021|Olivia Rodrigo|Sim
+Guts|2023|Olivia Rodrigo|Não
+The Dark Side of the Moon|1973|Pink Floyd|Não
+Thriller|1982|Michael Jackson|Não|||Não|
